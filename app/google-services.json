@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76071743983",
+    "project_id": "test-task-c5284",
+    "storage_bucket": "test-task-c5284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76071743983:android:eaac386f0c0cfba0cb061a",
+        "android_client_info": {
+          "package_name": "com.skipnik.testtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76071743983-j6idmfmakd5169bdroo8fjqohndgv0ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU5CzCtWRNHBhZo6Ni2Bfp8HUr3IgxiWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76071743983-j6idmfmakd5169bdroo8fjqohndgv0ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
